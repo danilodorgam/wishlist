@@ -43,6 +43,10 @@ $ ./mvnw spring-boot:run
 ```
 
 ####  URLS
+#####LocalHost
 - Banco de Dados http://localhost:8081/
 - swagger ui: http://localhost:8080/swagger-ui/index.html
 - Api Docs: http://localhost:8080/v2/api-docs
+#####Remoto
+- swagger ui: https://danilodorgam-wishlist.herokuapp.com/swagger-ui/index.html
+- Api Docs: https://danilodorgam-wishlist.herokuapp.com/v2/api-docs
